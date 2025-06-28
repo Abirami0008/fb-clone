@@ -1,0 +1,29 @@
+.footer-container {
+  font-size: 0.8rem;
+  color: #737373;
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #ffffff;
+  border-top: 1px solid #ddd;
+}
+
+.language-row,
+.link-row {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.plus-button {
+  border: 1px solid #ccc;
+  background: white;
+  margin-left: 5px;
+  padding: 0 8px;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.meta-note {
+  color: #606770;
+}
